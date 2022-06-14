@@ -1,0 +1,23 @@
+.Img {
+    display: inline-block;
+    vertical-align: middle;
+  }
+  .Span {
+    margin-bottom: -2px;
+    display: inline-block;
+    vertical-align: middle;
+    color: white;
+  }
+.H1 {
+    text-align: center;
+    font-size: 2rem;
+    color: white;
+}
+.Ol {
+    display: inline-block;
+    vertical-align: top;
+    color: white;
+}
+.Div {
+background-color: black;
+}
